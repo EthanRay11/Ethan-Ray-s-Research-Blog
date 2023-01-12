@@ -1,0 +1,5 @@
+---
+title: "Ethan Ray's Research Blog"
+site: distill::distill_website
+listing: posts
+---

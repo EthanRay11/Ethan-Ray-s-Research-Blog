@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Ethan Ray's Research Blog",
+    "description": "Welcome to our new blog, Ethan Ray's Research Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-01-12",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-01-12T13:05:07-05:00",
+    "input_file": "welcome.knit.md"
+  }
+]
