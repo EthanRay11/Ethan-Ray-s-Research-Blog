@@ -3,7 +3,7 @@
     "path": "~/Desktop/New R Project/Ethan Ray's Research Blog/about.Rmd",
     "project_path": "about.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2386038868",
     "contents": "",
     "dirty": false,
     "created": 1673546701251.0,
@@ -11,14 +11,16 @@
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "3,111",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1673546694,
+    "lastKnownWriteTime": 1673548906,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1673546694,
+    "last_content_update": 1673548906739,
     "read_only": false,
     "read_only_alternatives": []
 }
