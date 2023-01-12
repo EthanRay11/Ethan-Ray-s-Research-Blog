@@ -1,5 +1,5 @@
 ---
-title: "Ethan Ray's Research Blog"
+title: "Research Blog Posts"
 site: distill::distill_website
 listing: posts
 ---
