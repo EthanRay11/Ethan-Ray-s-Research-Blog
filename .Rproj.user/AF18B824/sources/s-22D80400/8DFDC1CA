@@ -3,7 +3,7 @@
     "path": "~/Desktop/New R Project/Ethan Ray's Research Blog/_posts/welcome/welcome.Rmd",
     "project_path": "_posts/welcome/welcome.Rmd",
     "type": "r_markdown",
-    "hash": "655866556",
+    "hash": "25221743",
     "contents": "",
     "dirty": false,
     "created": 1673546700665.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "93,29",
-        "scrollLine": "90"
+        "cursorPosition": "3,788",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1673576694,
+    "lastKnownWriteTime": 1673578733,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1673576694529,
+    "last_content_update": 1673578733603,
     "read_only": false,
     "read_only_alternatives": []
 }

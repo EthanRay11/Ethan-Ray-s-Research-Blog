@@ -1,7 +1,7 @@
 ---
 title: "Workplace Incivility and Work-family Conflict: Effects of Negative Rumination and Mindfulness"
 description: |
-  While the relationship between workplace incivility and work-to-family conflict has been established by a few studies, the underlying mechanisms remain understudied. The current study adopted a cognitive approach by examining negative rumination at work and after work as mediators of the relationship between workplace incivility and work-to-family conflict and by testing the buffering effect of trait mindfulness. Our findings suggest those who experience more incivility at work from supervisors and coworkers are more likely to ruminate these negative events at work and after work, and thus experience more work-to-family conflict; further, trait mindfulness can potentially reduce the spillover process of negative rumination from at work to after work. This research project was a poster presented at the SIOP 2020 conference.
+  While the relationship between workplace incivility and work-to-family conflict has been established by a few studies, the underlying mechanisms remain understudied. The current study adopted a cognitive approach by examining negative rumination at work and after work as mediators of the relationship between workplace incivility and work-to-family conflict and by testing the buffering effect of trait mindfulness. Our findings suggest those who experience more incivility at work from supervisors and coworkers are more likely to ruminate these negative events at work and after work, and thus experience more work-to-family conflict; further, trait mindfulness can potentially reduce the spillover process of negative rumination from at work to after work. This research project was presented at the SIOP 2020 conference.
 author:
   - name: Shivani Shah, Wiston Rodriguez, and Ethan Ray 
     url: https://ethanray11.github.io/
@@ -20,6 +20,8 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/blog.html
 
 ```
+
+![](image/figure2.png)
 
 Workplace incivility is prevalent issue in the workplace (Porath & Pearson, 2013), and research over the past 15 years has shown that it can affect various employee health-related, work-related, and nonwork domain outcomes (Cortina, Kabat-Farr, Magley, & Nelson, 2017). Among the nonwork domain outcomes, work-to-family conflict has been relatively less studied despite its important implications for employees and organizations alike (Amstad, Meier, Fasel, Elfering, & Semmer, 2011). While a recent study (Zhou, Meier, & Spector, 2019) established that emotional exhaustion mediated the relationship between workplace incivility and work-to-family conflict, the present study aims to expand the research on this relationship by examining additional underlying mechanisms. 
 
@@ -61,6 +63,10 @@ Research on mindfulness also suggests that those with higher trait mindfulness a
 
 - H5: Trait mindfulness will buffer the relationship between negative rumination at work on negative rumination after work,  such that the positive relationship will be weaker for those with high trait mindfulness.
 
+Figure 1 summarizes the proposed relationships. 
+
+![](image/figure.png)
+
 ## Method
 
 We recruited our participants using Qualtrics Panel Services, a third-party online survey administration platform. We collected two waves of data with one month in between to reduce common method variance (Podsakoff, Mackenzie, Lee, & Podsakoff, 2003). At Time 1, Qualtrics distributed our surveys to full-time employees in North America who were at least 18 years old, at their current job for 6 months or more, and worked at least 35 hours per week. A total of 481 participants took the initial survey. One month later, a second survey was only sent to those who participated in the initial survey, and 246 of them responded (response rate = 51%). We conducted our analyses with data from those who had both with both Time 1 and Time 2 data. In this final sample of 246 participants, 51% were female and 47.6% were white, working in a variety of industries (e.g., 12% from service industry, 11% from education industry, 7% from manufacturing, and 7% from finance). 
@@ -86,12 +92,16 @@ Unless otherwise specified, all measures were using a 5-point Likert scale with 
 
 Table 1 shows means, standard deviations, and correlations among studied variables. To test Hypotheses 1 to 3, we ran a path analysis model and Figure 2 shows unstandardized regression coefficients for all paths. We also estimated the indirect effects for all mediation hypotheses. As shown in Figure 2, both supervisor incivility (b= .25, p < .001) and coworker incivility (b= .46, p < .001) positively predicted negative rumination at work, supporting Hypothesis 1a and 1b. Negative rumination at work positively predicted negative rumination after work (b= .44, p < .001); the indirect effect of supervisor incivility on negative rumination after work was .11 with 95% bootstrapped CI [.06, .17], and the indirect effect of coworker incivility on negative rumination after work was .20 with 95% bootstrapped CI [.12, .29]. Thus, Hypotheses 2a and 2b were supported.
 
+![](image/figure5.png)
+
 Negative rumination after work positively predicted work-to-family conflict (b= .30, p < .001). Further, the indirect effect of supervisor incivility on negative rumination work-to-family conflict through negative ruminations at work and after work was ..03 with 95% bootstrapped CI [.01, .07], and the indirect effect of coworker incivility was .06 with 95% bootstrapped CI [.02, .12]. Thus, Hypotheses 3a and 4b were supported.
 To tested hypothesis 4 and 5, we added trait mindfulness as a moderator in model 1. The interaction between supervisor incivility and trait mindfulness in predicting negative rumination at work was not significant, b= -.07, p = .33, and the interaction between coworker incivility and trait mindfulness in predicting negative rumination at work was also not significant, b= -.04, p = .65. Thus, Hypotheses 4a and 4b were not supported.
 
+![](image/figure3.png)
+
 The interaction between negative rumination at work and trait mindfulness in predicting negative rumination after work was significant, b = -.11, p < .05. Figure 3 shows the plot of this interaction, suggesting that the positive relationship between negative rumination at work and negative rumination after work was weaker for those with higher trait mindfulness. Thus, Hypothesis 5 was supported.
 
-![Figure 1](image/figure.png)
+![](image/figure4.png)
 
 ## Discussion
 
