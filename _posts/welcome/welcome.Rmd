@@ -91,6 +91,8 @@ To tested hypothesis 4 and 5, we added trait mindfulness as a moderator in model
 
 The interaction between negative rumination at work and trait mindfulness in predicting negative rumination after work was significant, b = -.11, p < .05. Figure 3 shows the plot of this interaction, suggesting that the positive relationship between negative rumination at work and negative rumination after work was weaker for those with higher trait mindfulness. Thus, Hypothesis 5 was supported.
 
+![Figure 1](image/figure.png)
+
 ## Discussion
 
 The present study finds that negative rumination at work and after work mediate the effect of workplace incivility on work-to-family conflict, while trait mindfulness buffers the relationship of negative rumination at work on negative rumination after work. These findings contribute to the literature in two main ways.
