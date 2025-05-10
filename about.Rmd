@@ -1,7 +1,7 @@
 ---
 title: "About the researcher"
 description: |
-  Ethan Ray is an Industrial-Orgnaizational Psychologist with a Ph.D. from the Graduate Center, City University of New York. He specializes in employee selection, talent management, and organizational well-being, with a strong focus on leveraging behavioral science and data to drive meaningful change in the workplace. His research has explored the intersection of technology and work, including asynchronous video interviews, remote leadership and employee well-being, and virtual incivility.
+  Ethan Ray is an Industrial-Orgnaizational Psychologist with a Ph.D. from the Graduate Center, City University of New York. He specializes in employee assessment, talent management, and organizational well-being, with a strong focus on leveraging behavioral science and data to drive meaningful change in the workplace. His research has explored the intersection of technology and work, including asynchronous video interviews, remote leadership, and employee engagement. His [doctoral disseration](https://academicworks.cuny.edu/gc_etds/6107/) studied the effectiveness of leadership behaviors on employees' perceptions of leaders in varying distanced work arrangements. 
   
   Ethan's work has been published in the *Journal of Occupational Health Psychology* and presented at national conferences such as SIOP, APA, IPAC). He has partnered with Fortune 500 companies and high-growth tech firms to lead initiatives in performance management, employee listening, and leadership development. Currently, he serves as a Senior People Scientist at Culture Amp where he advises global organizations on evidence-based strategies to improve employee and manager experiences through feedback and behavioral insights.
   
@@ -9,7 +9,7 @@ description: |
   
   Link to [Past Baruch College student page](https://www.iopsych-baruch.com/ethan-ray)
   
-  Link to [LinkedIn](www.linkedin.com/in/ethan-j-ray)
+  Link to [LinkedIn](https://www.linkedin.com/in/ethan-j-ray/)
 ---
 
 ```{r setup, include=FALSE}

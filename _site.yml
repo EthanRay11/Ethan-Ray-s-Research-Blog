@@ -1,7 +1,7 @@
-name: "Ethan Ray's Research Blog"
-title: "Ethan Ray's Research Blog"
+name: "Ethan Ray's Academic Portfolio"
+title: "Ethan Ray's Academic Portfolio"
 description: |
-  Ethan Ray's Research Blog
+  Ethan Ray's Academic Portfolio
 output_dir: "docs"
 navbar:
   right:
